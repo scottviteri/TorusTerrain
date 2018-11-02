@@ -7,5 +7,5 @@ To use:
 
 This will export an image of the torus called Output/torus.png.
 
+![Example Output](Output/torus-g10b2.png)
 ![Example Output](Output/torus-g8b4.png)
-
