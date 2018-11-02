@@ -1,4 +1,4 @@
-Creates a torus with a bumpy surface.
+Automatically generates a rough surface such that the sides could be glued together to make a torus.
 Change the number of discrete points and the roughness of the terrain by modifying variables at the top of torus.js.
 
 To use:
